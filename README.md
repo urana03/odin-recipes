@@ -1,2 +1,2 @@
 # odin-recipes
-This project gives you tasty recipes for your tummy :)
+This project give you tasty recipes for your tummy :)
